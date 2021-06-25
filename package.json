@@ -1,0 +1,14 @@
+{
+  "name": "vite-plugin-react-stylename",
+  "version": "0.0.1",
+  "description": "Support use styleName with vite.",
+  "homepage": "https://github.com/anjianshi/vite-plugin-react-stylename",
+  "repository": "https://github.com/anjianshi/vite-plugin-react-stylename.git",
+  "author": "anjianshi",
+  "license": "MIT",
+  "keywords": ["vite", "react", "CSS Module"],
+  "main": "src/index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
