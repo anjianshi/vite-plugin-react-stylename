@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-react-stylename",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Support use styleName with vite.",
   "homepage": "https://github.com/anjianshi/vite-plugin-react-stylename",
   "repository": "https://github.com/anjianshi/vite-plugin-react-stylename.git",
