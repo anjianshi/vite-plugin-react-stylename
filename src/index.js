@@ -41,7 +41,7 @@ function transformScript(src) {
 
   Update source, use custom CreateElement replaces React.createElement to transform styleName props.
   */
-  src = src.replace(/React.createElement\(/, `TransformStyleNameCreateElement(${clsVar}, `)
+  src = src.replace(/React.createElement\(/g, `TransformStyleNameCreateElement(${clsVar}, `)
   src = TransformStyleNameCreateElement.toString() + '\n\n' + src
 
   return {
