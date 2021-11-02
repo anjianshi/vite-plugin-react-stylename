@@ -1,5 +1,8 @@
 # vite-plugin-react-stylename
 
+Migrates to <https://github.com/anjianshi/react-inline-css-module>
+
+
 Support use `styleName` prop in `React` with `vite`.
 
 With [babel-plugin-react-css-modules](https://github.com/gajus/babel-plugin-react-css-modules) we can use `styleName` instead of `className` to specify class names in style file that enables CSS module.
